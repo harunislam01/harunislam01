@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @harunislam01
 - 👀 I’m interested in web development and cyber security.
-- 🌱 I’m currently learning JavaScript, C++.
+- 🌱 I’m currently learning react, node.js.
 - 💞️ I’m looking to collaborate on Web development projects.
-- 📫 How to reach me Mail: islameren01@gmail.com , İnstagram: @haruneren.2
-- 😄 Pronouns: Web Developer.
+- 📫 How to reach me Mail: erenharunislam@gmail.com , Instagram: @haruneren.2
+- 😄 Pronouns: Software Developer.
 - ⚡ Fun fact: Write code whenever inspiration strikes.
 
 <!---
