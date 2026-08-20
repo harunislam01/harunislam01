@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @harunislam01
-- 👀 I’m interested in web development and cyber security.
-- 🌱 I’m currently learning react, node.js.
-- 💞️ I’m looking to collaborate on Web development projects.
+- 👀 I’m interested in backend development and AI Development.
+- 🌱 I’m currently learning backend and artifical-inteligence.
+- 💞️ I’m looking to collaborate on Full-Stack development projects.
 - 📫 How to reach me Mail: erenharunislam@gmail.com , Instagram: @haruneren.2
 - 😄 Pronouns: Software Developer.
-- ⚡ Fun fact: Write code whenever inspiration strikes.
+- ⚡ Fun fact: The computer is an age.
 
 <!---
 harunislam01/harunislam01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
